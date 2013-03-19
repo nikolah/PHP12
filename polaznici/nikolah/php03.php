@@ -1,4 +1,4 @@
-<?php
+g<?php
 	$godine=19;
 	if ($godine>18) {
 	echo "Ispiši me!";

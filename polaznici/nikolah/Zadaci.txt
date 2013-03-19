@@ -1,0 +1,5 @@
+Napiši funkciju koja ispisuje dali je broj paran
+Napiši f koja vraća dan u tjednu - ispisuje ime(stari kod)
+Napiši f koja vraća mjesec u godini (stari kod)
+Izdvoji 2 i 3 u posebnu datoteku
+Napiši f koja izračunava faktorjele (5! = 4! * 5)
