@@ -1,8 +1,9 @@
 <?php
-//fibonaccijev niz
+//fibonaccijev niz - self made
 $z=0;
 $i=1;
-while ($i<=500) { 
+$n=500;
+while ($i<=$n) { 
 	$z = $z + $i;
 	$i = $i + $z;
 	echo  $z . ', ' . $i . ', ';
